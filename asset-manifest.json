@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactpromodorclock/static/css/main.20b65b13.chunk.css",
+    "main.js": "/reactpromodorclock/static/js/main.f4ba7067.chunk.js",
+    "main.js.map": "/reactpromodorclock/static/js/main.f4ba7067.chunk.js.map",
+    "runtime~main.js": "/reactpromodorclock/static/js/runtime~main.b291a990.js",
+    "runtime~main.js.map": "/reactpromodorclock/static/js/runtime~main.b291a990.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/reactpromodorclock/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/reactpromodorclock/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/reactpromodorclock/index.html",
+    "precache-manifest.64763e7bcbbb0641972c5001cd01ae93.js": "/reactpromodorclock/precache-manifest.64763e7bcbbb0641972c5001cd01ae93.js",
+    "service-worker.js": "/reactpromodorclock/service-worker.js",
+    "static/css/main.20b65b13.chunk.css.map": "/reactpromodorclock/static/css/main.20b65b13.chunk.css.map",
+    "static/media/Ding.wav": "/reactpromodorclock/static/media/Ding.4eef2f87.wav"
+  }
+}
