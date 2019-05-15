@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1a8f53e5bacfcece76bb5befa19f15c",
+    "revision": "93da2bb660dfa092ba6c735955867361",
     "url": "/reactpromodorclock/index.html"
   },
   {
-    "revision": "8e28f3a2a1ca16c19653",
+    "revision": "c7078ab3bc55c4423a4e",
     "url": "/reactpromodorclock/static/css/main.20b65b13.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactpromodorclock/static/js/2.800ec228.chunk.js"
   },
   {
-    "revision": "8e28f3a2a1ca16c19653",
-    "url": "/reactpromodorclock/static/js/main.1e74727c.chunk.js"
+    "revision": "c7078ab3bc55c4423a4e",
+    "url": "/reactpromodorclock/static/js/main.bad623cc.chunk.js"
   },
   {
     "revision": "f4be0f5afcf47d5c2c79",
