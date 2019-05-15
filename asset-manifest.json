@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactpromodoroclock/static/css/main.20b65b13.chunk.css",
+    "main.css": "/reactpromodoroclock/static/css/main.4af3e1c7.chunk.css",
     "main.js": "/reactpromodoroclock/static/js/main.bbd03286.chunk.js",
     "main.js.map": "/reactpromodoroclock/static/js/main.bbd03286.chunk.js.map",
     "runtime~main.js": "/reactpromodoroclock/static/js/runtime~main.94994d9a.js",
@@ -8,9 +8,9 @@
     "static/js/2.62610e66.chunk.js": "/reactpromodoroclock/static/js/2.62610e66.chunk.js",
     "static/js/2.62610e66.chunk.js.map": "/reactpromodoroclock/static/js/2.62610e66.chunk.js.map",
     "index.html": "/reactpromodoroclock/index.html",
-    "precache-manifest.d76732767cefea2c68ab3fd85f25288e.js": "/reactpromodoroclock/precache-manifest.d76732767cefea2c68ab3fd85f25288e.js",
+    "precache-manifest.4db20c2e9ca51b071dd6b76ed5d7164b.js": "/reactpromodoroclock/precache-manifest.4db20c2e9ca51b071dd6b76ed5d7164b.js",
     "service-worker.js": "/reactpromodoroclock/service-worker.js",
-    "static/css/main.20b65b13.chunk.css.map": "/reactpromodoroclock/static/css/main.20b65b13.chunk.css.map",
+    "static/css/main.4af3e1c7.chunk.css.map": "/reactpromodoroclock/static/css/main.4af3e1c7.chunk.css.map",
     "static/media/Ding.wav": "/reactpromodoroclock/static/media/Ding.4eef2f87.wav"
   }
 }

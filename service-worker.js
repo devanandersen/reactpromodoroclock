@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reactpromodoroclock/precache-manifest.d76732767cefea2c68ab3fd85f25288e.js"
+  "/reactpromodoroclock/precache-manifest.4db20c2e9ca51b071dd6b76ed5d7164b.js"
 );
 
 self.addEventListener('message', (event) => {

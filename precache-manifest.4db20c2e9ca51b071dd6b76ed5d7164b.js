@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7909cccd546e91e61fc0a13a5d39794f",
+    "revision": "a424302f9174f80d26757a8ec522e0f8",
     "url": "/reactpromodoroclock/index.html"
   },
   {
-    "revision": "dcb635ab6dec4bdd0d87",
-    "url": "/reactpromodoroclock/static/css/main.20b65b13.chunk.css"
+    "revision": "a3e985155c43a633c2eb",
+    "url": "/reactpromodoroclock/static/css/main.4af3e1c7.chunk.css"
   },
   {
     "revision": "003b3399dcea456455dc",
     "url": "/reactpromodoroclock/static/js/2.62610e66.chunk.js"
   },
   {
-    "revision": "dcb635ab6dec4bdd0d87",
+    "revision": "a3e985155c43a633c2eb",
     "url": "/reactpromodoroclock/static/js/main.bbd03286.chunk.js"
   },
   {
